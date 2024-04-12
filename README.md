@@ -1,4 +1,4 @@
-# 📟git-practice-team1
+# 📟 git-practice-team1
 coming soon git 실습을 위한 레포입니다.<br>
 조원 분들은 아래 가이드에 따라서 실습을 진행해주세요.
 
@@ -39,27 +39,27 @@ coming soon git 실습을 위한 레포입니다.<br>
     </td>
      <td align="center" width="120px">
       <a href="https://github.com" target="_blank">
-        <img src="https://github.com/haewon1.png" alt="구혜원" />
+        <img src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderblackgithub_93133.png" alt="팀원1" />
       </a>
     </td>
     <td align="center" width="120px">
       <a href="https://github.com" target="_blank">
-        <img src="https://github.com/potato0730.png" alt="문서영" />
+        <img src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderblackgithub_93133.png" alt="팀원2" />
       </a>
     </td>
     <td align="center" width="120px">
       <a href="https://github.com" target="_blank">
-        <img src="https://github.com/gyeryeongban.png" alt="반계령" />
+        <img src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderblackgithub_93133.png" alt="팀원3" />
       </a>
     </td>
      <td align="center" width="120px">
       <a href="https://github.com" target="_blank">
-        <img src="https://github.com/conconcc.png" alt="이승준" />
+       <img src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderblackgithub_93133.png" alt="팀원4" />
       </a>
     </td>
        <td align="center" width="120px">
       <a href="https://github.com" target="_blank">
-        <img src="https://github.com/SYTIANA.png" alt="장기준" />
+        <img src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderblackgithub_93133.png" alt="팀원5" />
       </a>
     </td>
 
@@ -71,27 +71,27 @@ coming soon git 실습을 위한 레포입니다.<br>
       </a>
     </td>
      <td align="center">
-      <a href="https://github.com/haewon1" target="_blank">
-      구혜원
+      <a href="https://github.com" target="_blank">
+      🦕
       </a>
     </td> 
      <td align="center">
-      <a href="https://github.com/potato0730" target="_blank">
-      문서영
+      <a href="https://github.com" target="_blank">
+      🦕
       </a>
        <td align="center">
-      <a href="https://github.com/gyeryeongban" target="_blank">
-        반계령
+      <a href="https://github.com" target="_blank">
+       🦕
       </a>
     </td>
      <td align="center">
-      <a href="https://github.com/conconcc" target="_blank">
-       이승준
+      <a href="https://github.com" target="_blank">
+       🦕
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/SYTIANA" target="_blank">
-       장기준
+      <a href="https://github.com" target="_blank">
+       🦕
       </a>
     </td>
   </tr>
