@@ -72,12 +72,12 @@ coming soon git 실습을 위한 레포입니다.<br>
     </td>
      <td align="center">
       <a href="https://github.com" target="_blank">
-      문서영
+      🦕
       </a>
     </td> 
      <td align="center">
       <a href="https://github.com" target="_blank">
-      🦕
+      문서영
       </a>
        <td align="center">
       <a href="https://github.com" target="_blank">
