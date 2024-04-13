@@ -38,8 +38,8 @@ coming soon git 실습을 위한 레포입니다.<br>
       </a>
     </td>
      <td align="center" width="120px">
-      <a href="https://github.com" target="_blank">
-        <img src="https://github.com/haewon1" alt="구혜원" />
+      <a href="https://github.com/haewon1" target="_blank">
+        <img src="https://github.com/haewon1.png" alt="구혜원" />
       </a>
     </td>
     <td align="center" width="120px">
