@@ -49,7 +49,7 @@ coming soon git 실습을 위한 레포입니다.<br>
     </td>
     <td align="center" width="120px">
       <a href="https://github.com" target="_blank">
-        <img src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderblackgithub_93133.png" alt="팀원3" />
+        <img src="https://github.com/potato0730/gittp_12/assets/115160998/ace5cbc4-9ff7-489d-8d1a-8d3ee0ffb7ea" alt="팀원3" />
       </a>
     </td>
      <td align="center" width="120px">
