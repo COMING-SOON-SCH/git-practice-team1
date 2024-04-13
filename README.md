@@ -48,8 +48,8 @@ coming soon git 실습을 위한 레포입니다.<br>
       </a>
     </td>
     <td align="center" width="120px">
-      <a href="https://github.com" target="_blank">
-        <img src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderblackgithub_93133.png" alt="팀원3" />
+      <a href="https://github.com/gyeryeongban" target="_blank">
+        <img src="https://github.com/gyeryeongban.png" alt="반계령" />
       </a>
     </td>
      <td align="center" width="120px">
@@ -80,8 +80,8 @@ coming soon git 실습을 위한 레포입니다.<br>
       문서영
       </a>
        <td align="center">
-      <a href="https://github.com" target="_blank">
-       🦕
+      <a href="https://github.com/gyeryeongban" target="_blank">
+       반계령
       </a>
     </td>
      <td align="center">
