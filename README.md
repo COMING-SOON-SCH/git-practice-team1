@@ -33,7 +33,7 @@ coming soon git 실습을 위한 레포입니다.<br>
 </tr>
   <tr>
     <td align="center" width="120px">
-     <a href="https://github.com/Ogu1208" target="_blank">
+     <a href="https://github.com/Antraxmin" target="_blank">
         <img src="https://github.com/Antraxmin.png" alt="임채민" />
       </a>
     </td>
@@ -66,8 +66,8 @@ coming soon git 실습을 위한 레포입니다.<br>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com" target="_blank">
-       🦕
+      <a href="https://github.com/Antraxmin" target="_blank">
+       임채민
       </a>
     </td>
      <td align="center">
