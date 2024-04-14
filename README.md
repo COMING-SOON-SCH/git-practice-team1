@@ -59,7 +59,7 @@ coming soon git 실습을 위한 레포입니다.<br>
     </td>
        <td align="center" width="120px">
         <a href="https://github.com/SYTIANA" target="_blank">
-        <img src="https://cdn.icon-icons.com/icons2/1379/PNG/512/folderblackgithub_93133.png" alt="장기준" />
+        <img src="https://github.com/SYTIANA.png" alt="장기준" />
       </a>
     </td>
 
@@ -91,7 +91,7 @@ coming soon git 실습을 위한 레포입니다.<br>
     </td>
     <td align="center">
       <a href="https://github.com/SYTIANA" target="_blank">
-       🦕
+       장기준
       </a>
     </td>
   </tr>
